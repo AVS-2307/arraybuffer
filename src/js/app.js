@@ -1,4 +1,4 @@
-import ArrayBufferConverter from './arraybufferconverter';
+import ArrayBufferConverter from './bufferconverter.js';
 
 /* eslint-disable */
 
